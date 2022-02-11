@@ -1,5 +1,6 @@
 "This is FileC"
 "git Checkout xxxcommitnumber"
+"git Checkout xxbranchnamexx"
 "git Status"
 "git diff"
 "git log"
@@ -18,6 +19,9 @@
 "cd"
 "git merge branch"
 "git log --graph --decorate --oneline"
+"xxx.txt >> .gitignore"
+"more .gitignore"
+
 
 
 
