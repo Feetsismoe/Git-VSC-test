@@ -1,0 +1,23 @@
+"This is FileC"
+"git Checkout xxxcommitnumber"
+"git Status"
+"git diff"
+"git log"
+"git --no-pager log"
+"git add ."
+"git restore"
+"git commit -m 'xxx' "
+"git push -u origin/master"
+"git config --global --edit"
+"git init"
+"more xxx.txt"
+"git config --global user.email stephanmoeijes@hotmail.com"
+"git config --global user.name Stephan Moeijes"
+"dir"
+"mkdir"
+"cd"
+"git merge branch"
+"git log --graph --decorate --oneline"
+
+
+
